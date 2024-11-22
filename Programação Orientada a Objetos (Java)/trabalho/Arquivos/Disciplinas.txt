@@ -1,0 +1,11 @@
+GBC001;Matemática para Ciência da Computação;100;
+GBC002;Programação Orientada a Objetos;200;
+GBC003;Estruturas de Dados;150;
+GBC004;Arquitetura de Computadores;120;
+GBC005;Engenharia de Software;180;
+GBC006;Sistemas Operacionais;160;
+GBC007;Banco de Dados;140;
+GBC008;Redes de Computadores;130;
+GBC009;Inteligência Artificial;110;
+GBC010;Segurança da Informação;170;
+famat31333;calculo7;120;
